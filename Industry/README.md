@@ -8,9 +8,9 @@
 
 - **python**
 - **pandas**
-**numpy**
-**matplotlib**
-sklearn.linear_model.**LogisticRegression**
+-**numpy**
+-**matplotlib**
+-sklearn.linear_model.**LogisticRegression**
 - sklearn.ensemble.**RandomForestRegressor**
 - scatboost.**CatBoostRegressor**
 
